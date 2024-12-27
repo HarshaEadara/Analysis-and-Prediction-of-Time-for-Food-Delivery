@@ -47,12 +47,12 @@ The dataset used for this project is included in the `data` folder within this r
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/HarshaEadara/Analysis-and-Prediction-of-Time-for-Food-Delivery.git
    ```
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy scikit-learn matplotlib seaborn xgboost
    ```
 
 3. Run the Jupyter Notebook:
